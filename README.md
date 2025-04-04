@@ -21,11 +21,6 @@
 
 ![Taufik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amary21&show_icons=true&theme=radical)
 
-## Pinned Repositories
-
-- [Ameng-Subang-Android](https://github.com/amary21/Ameng-Subang-Android): Aplikasi dengan Arch Component, Clean Architecture, MVVM, Firebase, Room, Coroutine, Koin, dan Modularization.
-- [AMovie](https://github.com/amary21/AMovie): Aplikasi katalog film menggunakan API TMDb dengan MVVM dan Clean Architecture.
-
 ## Achievements
 
 ![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-blue)
