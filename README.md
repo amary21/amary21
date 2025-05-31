@@ -6,15 +6,15 @@
 
 ## About Me
 
-- 💼 Bekerja di **PT KB Finansia Multi Finance (Kreditplus)**, Jakarta Barat.
-- 🏢 Saat ini sedang **Work From Office (WFO)**.
-- 🌱 Sedang mendalami pengembangan aplikasi Android dengan arsitektur bersih dan komponen arsitektur.
-- 🌐 Cek juga portofolio lengkap saya di: [amary-t.netlify.app](https://amary-t.netlify.app/)
+- 💼 Currently working at **PT KB Finansia Multi Finance (Kreditplus)**, South Jakarta.
+- 🏢 Currently on a **Work From Office (WFO)** schedule.  
+- 🌱 Currently deepening my skills in Android app development using clean architecture and architectural components.  
+- 🌐 Check out my full portfolio here: [amary-t.netlify.app](https://amary-t.netlify.app/)
 
 ## Tech Stack
 
-- **Languages:** Kotlin, Dart, JavaScript
-- **Frameworks:** Vue.js, React, Flutter, Kotlin Multiplatform
+- **Languages:** Kotlin, Dart, JavaScript  
+- **Frameworks:** Vue.js, React, Flutter, Kotlin Multiplatform  
 - **Tools:** Firebase, Room, Coroutine, Koin
 
 ## GitHub Stats
@@ -29,4 +29,4 @@
 
 ## Let's Connect!
 
-Saya selalu terbuka untuk berdiskusi dan berkolaborasi. Jangan ragu untuk menghubungi saya melalui [LinkedIn](https://www.linkedin.com/in/taufik-amaryansyah/), [Twitter](https://twitter.com/TaufikAmary), atau cek langsung [portfolio saya](https://amary-t.netlify.app/). Mari kita bangun sesuatu yang luar biasa bersama! 🚀
+I'm always open to discussion and collaboration. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/taufik-amaryansyah/), [Twitter](https://twitter.com/TaufikAmary), or check out [my portfolio](https://amary-t.netlify.app/). Let’s build something amazing together! 🚀
