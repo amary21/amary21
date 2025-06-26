@@ -17,10 +17,6 @@
 - **Frameworks:** Vue.js, React, Flutter, Kotlin Multiplatform  
 - **Tools:** Firebase, Room, Coroutine, Koin
 
-## GitHub Stats
-
-![Taufik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amary21&show_icons=true&theme=radical)
-
 ## Achievements
 
 ![Arctic Code Vault Contributor](https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-blue)
