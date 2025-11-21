@@ -6,7 +6,6 @@
 
 ## About Me
 
-- 💼 Currently working at **PT KB Finansia Multi Finance (Kreditplus)**, South Jakarta.
 - 🏢 Currently on a **Work From Office (WFO)** schedule.  
 - 🌱 Currently deepening my skills in Android app development using clean architecture and architectural components.  
 - 🌐 Check out my full portfolio here: [amary-t.netlify.app](https://amary-t.netlify.app/)
